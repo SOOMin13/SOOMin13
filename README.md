@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 
 <img src='TechStackIcon/HTML.svg' width='70'>
 <img src='TechStackIcon/CSS.svg' width='70'>
-<br/>
-<br/>
 <img src='TechStackIcon/JavaScript.svg' width='70'>
 <img src='TechStackIcon/TypeScript.svg' width='70'>
 <img src='TechStackIcon/React.svg' width='70'>
@@ -54,26 +52,14 @@ Here are some ideas to get you started:
 <img src='TechStackIcon/GithubActions-Dark.svg' width='70'>
 <img src='TechStackIcon/AWS-Dark.svg' width='70'>
 <img src='TechStackIcon/Visual_Studio_Code.svg' width='50' style='padding:9px; background-color: white; border-radius:15px;'>
-<br/>
-<br/>
-<img src="TechStackIcon/notion-logo.png" alt="zustand" width="70" style='border-radius:15px;'>
+<img src="TechStackIcon/notion.png" alt="zustand" width="70" style='border-radius:15px;'>
 <img src='TechStackIcon/Discord.svg' width='70'>
 </div>
 <br/>
 
 #### 🌱 Github stats
 
-<div style="display: flex; justify-content: space-around;;">
-    <div style='display: flex; align-items: flex-start;'>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" alt="Top Languages" />
-    </a>
-    </div>
-    <div style='display: flex; align-items: flex-start;'>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SOOMin13&rank_icon=github" alt="Soomin's GitHub stats" />
-  </a>
-  </a>
-  </div>
-  
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=SOOMin13&rank_icon=github" alt="Soomin's GitHub stats" />
+
+
+
