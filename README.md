@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <img src='TechStackIcon/Redux.svg' width='70'>
-<img src="TechStackIcon/zustand.png" alt="zustand" width="70" style='border-radius:15px;'>
+<img src="TechStackIcon/zustand_round.png" alt="zustand" width="70" style='border-radius:15px;'>
 <img src='TechStackIcon/Sass.svg' width='70'>
 <img src='TechStackIcon/TailwindCSS-Dark.svg' width='70'>
 <img src='TechStackIcon/Git.svg' width='70'>
@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 <br/>
 <img src='TechStackIcon/GithubActions-Dark.svg' width='70'>
 <img src='TechStackIcon/AWS-Dark.svg' width='70'>
-<img src='TechStackIcon/Visual_Studio_Code.svg' width='50' style='padding:9px; background-color: white; border-radius:15px;'>
-<img src="TechStackIcon/notion.png" alt="zustand" width="70" style='border-radius:15px;'>
+<img src='TechStackIcon/Visual_Studio_Code.svg' width='60' style='padding:9px; background-color: white; border-radius:15px;'>
+<img src="TechStackIcon/Notion.png" alt="zustand" width="70" style='border-radius:15px;'>
 <img src='TechStackIcon/Discord.svg' width='70'>
 </div>
 <br/>
@@ -60,6 +60,3 @@ Here are some ideas to get you started:
 #### 🌱 Github stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=SOOMin13&rank_icon=github" alt="Soomin's GitHub stats" />
-
-
-
